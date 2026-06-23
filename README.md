@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika25mcan0080-prog/c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kanika25mcan0080-prog/c-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika25mcan0080-prog/c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kanika25mcan0080-prog/c-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanika25mcan0080-prog/c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika25mcan0080-prog/c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

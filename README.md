@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1480-running-sum-of-1d-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

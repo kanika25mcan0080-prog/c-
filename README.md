@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kanika25mcan0080-prog/c-/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanika25mcan0080-prog/c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kanika25mcan0080-prog/c-/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanika25mcan0080-prog/c-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika25mcan0080-prog/c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kanika25mcan0080-prog/c-/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kanika25mcan0080-prog/c-/tree/master/0682-baseball-game) |
 ## Queue
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kanika25mcan0080-prog/c-/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

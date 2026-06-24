@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanika25mcan0080-prog/c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanika25mcan0080-prog/c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kanika25mcan0080-prog/c-/tree/master/0682-baseball-game) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kanika25mcan0080-prog/c-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kanika25mcan0080-prog/c-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

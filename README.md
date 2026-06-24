@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kanika25mcan0080-prog/c-/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/kanika25mcan0080-prog/c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kanika25mcan0080-prog/c-/tree/master/0682-baseball-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika25mcan0080-prog/c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanika25mcan0080-prog/c-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanika25mcan0080-prog/c-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanika25mcan0080-prog/c-/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kanika25mcan0080-prog/c-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
